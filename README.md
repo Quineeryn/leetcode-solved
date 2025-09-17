@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Quineeryn/leetcode-solved/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/Quineeryn/leetcode-solved/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Quineeryn/leetcode-solved/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Quineeryn/leetcode-solved/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
